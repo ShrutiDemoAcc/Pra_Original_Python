@@ -219,6 +219,7 @@ user3 = user[-3:]      # slicing
 print(user3)
 user_copy = user[:]    # copy list
 print(user_copy)
+print('h')
 
 
 #he sort() method changes the order of a list permanently.
