@@ -46,7 +46,6 @@ a='madam'
 print(is_palindrome(a))
 
 
-
 #print second largest and first largest
 ls=[1,5,8,7,8,9,6,5,8,5,4,1,2,1,2,8,5,5,8,99]
 ls.sort()
